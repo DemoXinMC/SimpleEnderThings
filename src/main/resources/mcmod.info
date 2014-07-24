@@ -4,6 +4,7 @@
   "name": "SimpleEnderThings",
   "description": "Adds the Ender Pouch and Ender Tome!  The Ender Pouch allows you to access your Ender Chest from your Hotbar, without requiring you to bring a Silk Touch pick along on your adventures.  Right-click for instant access to your valuables!",
   "version": "1.2.0",
-  "mcversion": "1.7.10"
+  "mcversion": "1.7.10",
+  "url": "http://minecraft.curseforge.com/mc-mods/222624-simple-ender-things"
 }
 ]
